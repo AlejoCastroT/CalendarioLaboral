@@ -1,4 +1,4 @@
-package com.api.spring.api.controller; // Ajusta según tu estructura de paquetes
+package com.api.spring.api.controller; 
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
